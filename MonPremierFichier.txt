@@ -6,3 +6,4 @@ def coucou():
 	print("Nope")
 	
 tata()
+coucou()
