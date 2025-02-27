@@ -2,4 +2,7 @@ def tata():
 	print("Coucou, je suis Benjamin")
 	print("Je ne suis pas d'accord")
 	
+def coucou():
+	print("Nope")
+	
 tata()
