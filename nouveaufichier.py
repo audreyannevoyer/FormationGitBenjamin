@@ -1,5 +1,5 @@
 print("coucou2")
 print("test")
-print("CRME")
+print("crme")
 print("conda")
-print("habilités motrices")
+print("habilites motrices")
