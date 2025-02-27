@@ -5,5 +5,8 @@ def tata():
 def coucou():
 	print("Nope")
 	
+def tata2():
+	print("TATA")
+	
 tata()
 coucou()
