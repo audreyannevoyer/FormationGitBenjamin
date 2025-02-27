@@ -9,4 +9,5 @@ def tata2():
 	print("TATA")
 	
 tata()
+tata2()
 coucou()
