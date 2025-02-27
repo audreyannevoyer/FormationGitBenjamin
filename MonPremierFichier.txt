@@ -5,9 +5,9 @@ def tata():
 def coucou():
 	print("Nope")
 	
-def tata2():
+def blabla():
 	print("TATA")
 	
 tata()
-tata2()
+blabla()
 coucou()
